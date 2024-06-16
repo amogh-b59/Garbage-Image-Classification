@@ -1,1 +1,1 @@
-# Garbage-Image-Classification
+# Garbage-Detection-
